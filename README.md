@@ -1,5 +1,8 @@
 ### Big Data ITMO course
 
+# Install SBT
+https://www.scala-sbt.org/download.html
+
 ## Task1 
 The dataset contains data from the itmo community vk.com (https://vk.com/club94) and is located at https://cloud.mail.ru/public/29hd/4wctpKRwH
 There are group posts, likes for posts, followers, followers posts from 2019 and its likes.
